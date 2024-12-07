@@ -35,7 +35,7 @@ const Register = () => {
 
     try {
       // Save data to MongoDB via API
-      const response = await axios.post('https://client-2-ohb7.onrender.com/api/register', formData);
+      const response = await axios.post('https://server-3-kkex.onrender.com/api/register', formData);
       
       // Save username and password in localStorage for login
       localStorage.setItem('username', formData.username);
