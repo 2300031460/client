@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://server-2-h8uv.onrender.com",
+  "proxy": "https://server-3-kkex.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
